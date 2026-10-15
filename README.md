@@ -2,6 +2,8 @@
 
 A compact **CVAT annotation portfolio** featuring manually labeled textile defects. The samples demonstrate polygon and bounding-box workflows on fabric images.
 
+I am currently learning data analytics as I work toward becoming a data analyst. This CVAT portfolio is part of my ongoing work, where I am building practical experience with data labeling, image annotation, and preparing structured datasets for analysis and machine learning.
+
 ## Portfolio at a glance
 
 | Task | Images | Annotation type | Labeled objects |
