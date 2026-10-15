@@ -13,6 +13,28 @@ A compact **CVAT annotation portfolio** featuring manually labeled textile defec
 
 Labels are `Hole`, `Stain`, and `Weave_Defect`. The original CVAT task exports included a broader label list; each sample here contains only its task's relevant label.
 
+## Annotation preview gallery
+
+These previews show the labeled samples inline. Open the README on GitHub or another Markdown viewer to inspect them without opening the dataset folders.
+
+### Hole defects · polygons
+
+| Sample 1 | Sample 2 | Sample 3 |
+| --- | --- | --- |
+| <img src="datasets/hole-defect/hole_1_annotated.png" width="260" alt="Hole defect sample 1 with polygon annotation"> | <img src="datasets/hole-defect/hole_2_annotated.png" width="260" alt="Hole defect sample 2 with polygon annotations"> | <img src="datasets/hole-defect/hole_3_annotated.png" width="260" alt="Hole defect sample 3 with polygon annotation"> |
+
+### Stain defects · polygons
+
+| Sample 1 | Sample 2 | Sample 3 |
+| --- | --- | --- |
+| <img src="datasets/stain-defect/stain_1_annotated.png" width="260" alt="Stain defect sample 1 with polygon annotation"> | <img src="datasets/stain-defect/stain_2_annotated.png" width="260" alt="Stain defect sample 2 with polygon annotations"> | <img src="datasets/stain-defect/stain_3_annotated.png" width="260" alt="Stain defect sample 3 with polygon annotations"> |
+
+### Weave defects · bounding boxes
+
+| Sample 1 | Sample 2 | Sample 3 |
+| --- | --- | --- |
+| <img src="datasets/weave-defect/weave_defect_1_annotated.png" width="260" alt="Weave defect sample 1 with bounding box"> | <img src="datasets/weave-defect/weave_defect_2_annotated.png" width="260" alt="Weave defect sample 2 with bounding box"> | <img src="datasets/weave-defect/weave_defect_3_annotated.png" width="260" alt="Weave defect sample 3 with bounding box"> |
+
 ## Folder layout
 
 ```text
