@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id />
+      <name>Stain Defect Practice 1</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2026-10-14 11:21:52.845586+00:00</created>
+      <updated>2026-10-14 11:32:51.790574+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>2</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id />
+          <start>0</start>
+          <stop>2</stop>
+          <url />
+        </segment>
+      </segments>
+      <owner>
+        <username />
+        <email />
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>Hole</name>
+          <color>#33ddff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Stain</name>
+          <color>#5d950d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Loose_Thread</name>
+          <color>#7a1979</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Weave_Defect</name>
+          <color>#fc1370</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-10-15 12:25:09.074575+00:00</dumped>
+  </meta>
+  <image id="0" name="stain_1.jpeg" width="739" height="415">
+    <polygon label="Stain" source="manual" occluded="0" points="224.10,194.16;269.55,159.68;329.89,145.58;410.61,139.31;449.01,153.41;488.20,155.76;501.52,209.05;492.11,245.10;467.04,259.99;431.77,274.88;363.59,280.37;289.14,288.20;249.18,281.15;213.13,274.88;199.81,234.91" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="stain_2.jpeg" width="681" height="451">
+    <polygon label="Stain" source="manual" occluded="0" points="23.84,138.09;81.61,169.14;158.16,252.19;115.55,262.30;95.33,248.58;70.78,250.02;44.78,241.36;44.06,209.58;25.28,180.69" z_order="0">
+    </polygon>
+    <polygon label="Stain" source="manual" occluded="0" points="253.49,182.14;284.54,161.20;320.65,181.42;312.71,195.86;314.15,221.86;327.15,253.63;320.65,273.85;303.32,265.91;285.26,280.35;254.21,281.07;233.99,267.35;228.93,234.86;231.82,197.30" z_order="0">
+    </polygon>
+    <polygon label="Stain" source="manual" occluded="0" points="304.04,123.64;332.20,122.20;343.04,147.47;327.15,161.20;302.60,152.53;297.54,142.42" z_order="0">
+    </polygon>
+    <polygon label="Stain" source="manual" occluded="0" points="337.26,186.47;362.53,182.14;358.92,207.41;344.48,215.36;330.04,207.41" z_order="0">
+    </polygon>
+    <polygon label="Stain" source="manual" occluded="0" points="341.59,244.97;352.42,226.91;371.92,223.30;384.20,195.86;399.36,202.36;394.31,234.86;371.20,255.08;351.70,265.91;336.54,264.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="2" name="stain_3.jpeg" width="519" height="591">
+    <polygon label="Stain" source="manual" occluded="0" points="209.28,239.39;241.50,222.82;276.48,231.10;278.33,253.19;258.99,281.73;224.93,286.33;206.52,266.08" z_order="0">
+    </polygon>
+    <polygon label="Stain" source="manual" occluded="0" points="292.13,448.35;352.89,449.27;350.13,475.05;310.55,488.86;266.36,479.65" z_order="0">
+    </polygon>
+  </image>
+</annotations>

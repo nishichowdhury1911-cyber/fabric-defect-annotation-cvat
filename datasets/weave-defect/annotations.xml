@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id />
+      <name>Weave Defect Practice 01</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2026-10-14 11:18:58.482454+00:00</created>
+      <updated>2026-10-14 11:25:25.864890+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>2</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id />
+          <start>0</start>
+          <stop>2</stop>
+          <url />
+        </segment>
+      </segments>
+      <owner>
+        <username />
+        <email />
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>Hole</name>
+          <color>#33ddff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Stain</name>
+          <color>#5d950d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Loose_Thread</name>
+          <color>#7a1979</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Weave_Defect</name>
+          <color>#fc1370</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-10-15 12:18:49.475207+00:00</dumped>
+  </meta>
+  <image id="0" name="weave_defect_1.png" width="1536" height="1024">
+    <box label="Weave_Defect" source="manual" occluded="0" xtl="435.80" ytl="445.44" xbr="1392.53" ybr="597.16" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="weave_defect_2.png" width="1536" height="1024">
+    <box label="Weave_Defect" source="manual" occluded="0" xtl="182.93" ytl="418.51" xbr="1496.19" ybr="629.71" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="weave_defect_3.png" width="1536" height="1024">
+    <box label="Weave_Defect" source="manual" occluded="0" xtl="580.37" ytl="437.71" xbr="1238.92" ybr="560.59" z_order="0">
+    </box>
+  </image>
+</annotations>

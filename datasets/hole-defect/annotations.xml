@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id />
+      <name>Hole Defect Practice 1</name>
+      <size>3</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2026-10-14 11:20:51.581786+00:00</created>
+      <updated>2026-10-14 11:29:23.108371+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>2</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id />
+          <start>0</start>
+          <stop>2</stop>
+          <url />
+        </segment>
+      </segments>
+      <owner>
+        <username />
+        <email />
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>Hole</name>
+          <color>#33ddff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Stain</name>
+          <color>#5d950d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Loose_Thread</name>
+          <color>#7a1979</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Weave_Defect</name>
+          <color>#fc1370</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-10-15 12:24:22.350419+00:00</dumped>
+  </meta>
+  <image id="0" name="hole_1.jpeg" width="704" height="436">
+    <polygon label="Hole" source="manual" occluded="0" points="223.24,276.99;258.32,282.96;322.53,254.59;355.38,234.43;358.36,222.49;351.64,191.13;338.95,163.51;321.78,147.09;297.89,138.88;275.49,150.07;253.10,176.20;258.32,204.57;235.93,223.24;220.25,243.39;220.25,243.39;220.25,243.39;220.25,243.39" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="hole_2.jpeg" width="689" height="445">
+    <polygon label="Hole" source="manual" occluded="0" points="231.27,220.68;257.57,197.30;297.76,190.72;377.40,191.45;430.01,197.30;460.69,208.26;474.58,183.41;490.65,200.95;505.26,188.53;509.65,204.60;515.49,220.68;505.99,241.87;488.46,245.52;464.35,243.33;443.16,243.33;421.24,257.94;374.48,274.01;332.83,280.59;313.10,275.47;307.99,279.86;295.57,282.05;291.91,274.01;270.73,252.82;245.88,245.52;233.46,244.79" z_order="0">
+    </polygon>
+    <polygon label="Hole" source="manual" occluded="0" points="348.91,315.66;363.52,311.28;369.36,323.70;356.21,331.73" z_order="0">
+    </polygon>
+  </image>
+  <image id="2" name="hole_3.jpeg" width="516" height="387">
+    <polygon label="Hole" source="manual" occluded="0" points="254.10,168.50;276.41,177.55;287.86,198.04;293.28,216.13;284.85,223.96;266.76,218.54;260.13,202.26;252.29,189.00" z_order="0">
+    </polygon>
+  </image>
+</annotations>
